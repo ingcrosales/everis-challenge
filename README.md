@@ -10,5 +10,4 @@ Para obtener el resultado deseado en /square enviar la variable mediante url, Ej
 http://52.30.61.201:5000/square?x=2
 
 
-Task 2 :
 
