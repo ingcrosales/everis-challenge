@@ -2,6 +2,7 @@
 Everis Challenge Task 1 and 2
 
 *Correr scripts en Google Cloud Shell
+*Colocar Service Account Json file en la misma carpeta
 
 Task 1 :
 
